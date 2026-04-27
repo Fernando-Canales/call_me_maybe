@@ -16,7 +16,7 @@ Instead of relying on surface-level metrics, I engineered a custom "inefficiency
 * **Statistics:** SciPy (A/B Testing, T-Tests, Hypothesis Validation)
 * **Visualization:** Matplotlib, Seaborn, Tableau
 
-🔗 **[View the Interactive Tableau Dashboard Here](https://public.tableau.com/views/Dashboard_proyecto_final_tripleten_Fernando_Gutierrez/DashboardCallmeMaybe)**
+🔗 **[View the Interactive Tableau Dashboard Here](https://public.tableau.com/views/Dashboard_proyecto_final_tripleten_Fernando_Gutierrez/Dashboard_CallmeMaybe?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)**
 
 ---
 
@@ -36,4 +36,4 @@ En lugar de depender de métricas superficiales, diseñé una "fórmula de inefi
 * **Estadística:** SciPy (Pruebas A/B, Pruebas T, Validación de Hipótesis)
 * **Visualización:** Matplotlib, Seaborn, Tableau
 
-🔗 **[Ver el Dashboard Interactivo en Tableau Aquí](https://public.tableau.com/views/Dashboard_proyecto_final_tripleten_Fernando_Gutierrez/DashboardCallmeMaybe)**
+🔗 **[Ver el Dashboard Interactivo en Tableau Aquí](https://public.tableau.com/views/Dashboard_proyecto_final_tripleten_Fernando_Gutierrez/Dashboard_CallmeMaybe?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)**
